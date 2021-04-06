@@ -1,4 +1,4 @@
 # Content-Based-Movie-Recommendation-System
-Content Based Movie Recommendation System using Cosine Similarity
+Movie Recommendation System based on Genre
 
-Content Based Movie Recommendation System creating using Cosine Similarity from Jupyter Notebook
+Content Based Movie Recommendation System based on Genre created using Cosine Similarity from Jupyter Notebook along with the movie list take from MovieLens.com
